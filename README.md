@@ -2,7 +2,9 @@
 
 ###
 
-<p data-importer="text" align="left">My name is Leandro, Data & AI Engineering</p>
+<p data-importer="text" align="left" style="font-size: 20px;">
+  My name is Leandro, Data & AI Engineering
+</p>
 
 ###
 
